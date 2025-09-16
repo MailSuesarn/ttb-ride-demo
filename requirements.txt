@@ -1,0 +1,36 @@
+# --- Core ---
+python-dotenv==1.0.1
+pydantic==2.10.6
+packaging==24.2
+
+# --- Web API / Server ---
+fastapi==0.110.0
+uvicorn==0.30.0
+httpx==0.27.2
+
+# --- UI (Gradio calling the API) ---
+gradio==4.44.0
+gradio_client==1.3.0
+
+# --- OpenAI + Agents (your runner/Agent tooling) ---
+openai==1.105.0
+openai-agents==0.2.11
+
+# --- RAG / Embeddings (local HF model + LangChain embeddings wrapper) ---
+numpy==1.26.4
+pandas==2.3.2
+sentence-transformers==2.7.0
+torch==2.3.1
+transformers==4.44.2
+accelerate==0.33.0
+safetensors==0.4.4
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-core==0.2.43
+
+# --- Serverless (Modal) ---
+modal==1.1.0
+
+# --- Agent Orchestration + Matching (added for this project) ---
+langgraph==0.2.11
+rapidfuzz==3.9.6
