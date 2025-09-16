@@ -140,7 +140,7 @@ This repo includes **`ttb_ride/ocr/olmocr_service_ttb_ride.py`**, a small servic
 
 ## How it works
 
-```mermaid
+```
 flowchart TD
   start([start]) --> router
   router -- intent & not approved --> docops
