@@ -9,6 +9,8 @@
 > This repository is a **demo/prototype** for exploring agentic AI and document-driven flows with Gradio + LangGraph.  
 > It is **not** affiliated with, endorsed by, or operated by TTB Bank. It does **not** issue real credit decisions and should **not** be used in production.
 
+https://github.com/user-attachments/assets/d958d84b-9657-481d-8299-10fb442cb8af
+
 ## What is this?
 
 An experimental chatbot that guides a user through a **motorcycle-loan**-style flow:
