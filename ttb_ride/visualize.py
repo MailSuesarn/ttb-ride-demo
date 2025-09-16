@@ -1,4 +1,3 @@
-# ttb_ride/visualize.py
 import io
 from PIL import Image
 
