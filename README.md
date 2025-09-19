@@ -177,7 +177,7 @@ flowchart TD
   Ensure files exist under `assets/` and `.env` points to them (or remove overrides to use defaults).
 
 - **OCR errors**  
-  Make sure `ttb_ride/ocr/ocr_agent.py` matches your OCR server, and `.env` has the correct `OCR_BASE_URL` (and key if required).
+  Make sure `ttb_ride/ocr/ocr_agent.py` matches your OCR server
 
 ---
 
